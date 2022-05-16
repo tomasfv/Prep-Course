@@ -1,0 +1,6 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`: Se utiliza para ejecutar algo en bucle, definiendo el punto de inicio del bucle, la condición durante la cual se ejecutará, y la acción que se repetirá.
+* `&&`: es un operador lógico que se interpreta como "y" o "and" en inglés. 
+* `||`: es un operador lógico que se interpreta como "o" u "or" en inglés.
+* `!`: es un operador que contradice lo que esté al lado. 
