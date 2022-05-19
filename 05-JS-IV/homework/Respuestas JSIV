@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: son contenedores de datos sobre un solo elemento.
+	* Propiedades: Las propiedades se usan para definir los datos a guardar dentro de un objeto.
+	* Métodos: cuando creamos funciones dentro de un objeto, las llamamos Métodos.
+	* Bucle `for…in`: el bucle for...in nos permite recorrer objetos.
+	* Notación de puntos vs notación de corchetes: ambas nos permiten acceder a los valores de un objeto, pero la notación de corchetes también nos permite acceder a argumentos y variables.  
