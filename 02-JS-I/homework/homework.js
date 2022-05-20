@@ -196,8 +196,8 @@ function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
-  var combNombres = nombre + apellido +'';
-  return combNombres;
+  return nombre + ' ' + apellido;
+
 }
 
 function obtenerSaludo(nombre) {
@@ -210,16 +210,14 @@ function obtenerSaludo(nombre) {
 function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un rectángulo teniendo su altura y ancho
   // Tu código:
-  var area = alto * ancho;
-  return area;
+  return alto * ancho;
 }
 
 
 function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
   //Escribe tu código aquí
-  var perimetro = lado * 4;
-  return perimetro;
+  return lado*4;
 }
 
 
